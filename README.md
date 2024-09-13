@@ -321,14 +321,8 @@ ORDER BY
 The analysis results are as follows:
 1.	Total sales increased by 35.3% in the second quarter compared to the first quarter.
 2.	The coffee product category has consistently outperformed other categories
-3.	The Hell's Kitchen store location has experienced a consistent increase sales in recent months
-4.	The top reasons for cart abandonment are no guest checkout option, complex checkout, no total order upfront, and shipping costs.
-5.	Most abandoned users come from social media (44-42%) and the session range where abandonment is highest is between 77-100 sessions
-6.	The cart contents with the highest abandonment are accessories, toys, and footwear
-7.	The majority of abandoned users are female (54.35%)
-8.	The location date suggests that abandonment is spread across several regions in North America with Virginia being notably higher.
-9.	The trend of abandoned users by week shows fluctuation with some peaks suggesting periodic increases in abandonment rates
-10.	items such as sunglasses, wristwatches, and tablets are among the top categories for abandoned purchases
+3.	The Hell's Kitchen store location has experienced a consistent increase in sales in recent months
+
 
 ### Recommendations
 ---
@@ -336,9 +330,7 @@ The analysis results are as follows:
 1.	Continue current marketing strategies and explore opportunities for further growth.
 2.	Allocate more resources to promote and expand the coffee product category.
 3.	Conduct a market analysis to identify reasons for the decline and implement corrective measures in other store locations.
-4.	Leverage Social Media: Since a significant portion of traffic comes from social media, retargeting campaigns on these platforms could help recover abandoned carts.
-5.	Tailored Marketing Strategies: Develop targeted marketing strategies for the top abandoned items like sunglasses, wristwatches, and tablets to improve conversions in these categories
-6.	Address Shipping Costs: Offering free shipping thresholds or flat-rate shipping could mitigate abandonment due to shipping costs.
+
 
 ### Limitations
 ---
